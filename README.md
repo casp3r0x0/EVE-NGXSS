@@ -11,7 +11,7 @@ Stored XSS on EVE-NG
 # Software Link: https://www.eve-ng.net/index.php/download/
 # Version: Free EVE Community Edition Version 5.0.1-13
 # Tested on: Free EVE Community Edition Version 5.0.1-13
-# CVE : N/A
+# CVE : CVE-2024-27670
 
 
 
